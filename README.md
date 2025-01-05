@@ -1,5 +1,4 @@
-# Cockpitdecks Web Decks
+# Cockpitdecks Extension
 
-This is an empty extension package for Cockpitdecks.
-
-It can be used as a template for creating Cockpitdecks web decks.
+Cockpitdecks Representation to produce a METAR-like icon for the current
+location or region based on X-Plane «Real Weather» data. (Weather, and wind and cloud layers.)
